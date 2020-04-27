@@ -20,7 +20,7 @@
 :heavy_check_mark: 해결  
 * C연산을 행<->열을 통해 같은 R연산으로 해줌  
 
-:heavy_plus_sign: 난관
+:heavy_plus_sign: 추가
 * 연산을 하면서 기존 열 개수 값을 바꿔버려 틀림  
   => tmpCol을 만들어 연산이 끝날 때 열 개수를 바꿔 해결  
 
