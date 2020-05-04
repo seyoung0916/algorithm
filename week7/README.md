@@ -128,7 +128,7 @@
 
 :heavy_check_mark: 해결  
 * vector<int> qu[MAX]에 서로 연결되어 있는 지역을 입력받음  
-* 1~N까지 차례로 구역 선택  
+* 1~N까지 차례로 구역 선택
 	-> permutation용 벡터를 만들어 조합 생성  
 * check(vector<int> v)  
 	-> v에는 지역 정보 저장  
