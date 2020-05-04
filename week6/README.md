@@ -1,8 +1,8 @@
 # 백준 17779 (게리멘더링 2)  
 :pushpin: 유형  
-* 시뮬레이션 문제  
+* 시뮬레이션  
 
-:question: 고민  
+:question: 문제  
 * 구역을 어떻게 나눌지 고민  
 
 :heavy_check_mark: 해결  
@@ -12,9 +12,9 @@
 
 # 백준 17140 (이차원 배열과 연산)
 :pushpin: 유형  
-* 시뮬레이션 문제  
+* 시뮬레이션  
 
-:question: 고민  
+:question: 문제  
 * 연산 구현
 
 :heavy_check_mark: 해결  
