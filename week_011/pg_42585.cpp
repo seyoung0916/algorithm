@@ -8,8 +8,7 @@ int solution(string arrangement) {
     int answer = 0;
     stack<char> s;
     
-    // 다음 문자와 비교하기 위해서 길이-1까지만 반복
-    for (int i = 0; i < arrangement.length()-1;i++) {
+    for (int i = 0; i < arrangement.length();i++) {
         
         if (arrangement[i] == '(' && arrangement[i+1] == ')') { // 파이프
             answer+=s.size(); // 파이프 개수

@@ -20,8 +20,10 @@ bool check(int n) {
 int solution(int n, vector<vector<int>> costs) {
     int answer = 0;
     vector<int> tmp;
+	
     int min = costs[0][2]; // 처음 것이 최소라 가정
     int n1 = costs[0][0], n2 = costs[0][1];
+	
     for (int i = 0; i < costs.size(); i++) {
         tmp = costs[i];
         arr[tmp[0]][tmp[1]] = tmp[2]; // 목적지, 비용
